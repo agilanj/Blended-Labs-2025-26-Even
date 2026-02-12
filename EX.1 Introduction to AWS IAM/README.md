@@ -1,6 +1,5 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 
-
 ## Author
 **Name: AGILAN J
 **Reg No: 212224100002
